@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class Inp{
     public static void main(String[] args) {
         String x="hello world, my name is ";
         String y="prtdv";
